@@ -1,0 +1,12 @@
+transit-free definition:
+
+o Disconnection of the peering between two transit-free networks will partition the internet.
+o Transit-free Networks won't use any intermediate networks to reach any other self-proclaimed transit-free network.
+
+starting point: given the adjacencies of a a self-proclaimed transit-free
+network such as AS 2914, all transit-freee networks must be present in the set
+of 2914-adjacencies.
+
+http://www.irl.cs.ucla.edu/~rveloso/papers/completeness_tr.pdf
+http://www.eng.tau.ac.il/~udiw/papers/msc.pdf
+http://arxiv.org/pdf/1106.2417.pdf
